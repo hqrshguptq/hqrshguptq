@@ -16,7 +16,7 @@ I'm a software developer who is passionate about making open-source more accessi
 - 👯 I’m looking to collaborate to Open Source Organisations.
 - 😄 Pronouns: he/him.
 - ⚡  Fun fact: I can Solve a Rubik's Cube under a minute.
-- 💜 Loving [react][react], [jamstack][jamstack], Video Production  
+- 💜 Loving [react][react], [jamstack][jamstack], video production  
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
