@@ -32,5 +32,6 @@ I'm a software developer who is passionate about making open-source more accessi
 [website]: https://harshgupta.ga
 [instagram]: https://instagram.com/hqrshguptq
 [linkedin]: https://linkedin.com/in/hqrshguptq
+[youtube]: https://www.youtube.com/channel/UC1zNFmqEcoGLk4BlqPv3skQ/featured?view_as=subscriber
 [npm]: https://npmjs.com/~hqrshguptq
 
