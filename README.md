@@ -16,7 +16,7 @@ I'm a software developer who is passionate about making open-source more accessi
 - 👯 looking to collaborate to Open Source Organisations.
 - 😄 pronouns: he/him.
 - ⚡  fun fact: I can solve a Rubik's Cube under a minute.
-
+- 🦕  quote: Cross all the Software-Dev Hurdles like the DINO above and brighten your SCORE.
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
