@@ -1,4 +1,4 @@
-![image](https://github.com/hqrshguptq/hqrshguptq/blob/master/dino.gif)
+![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
 
 
 ### Hi, I'm Harsh 👋 💻
