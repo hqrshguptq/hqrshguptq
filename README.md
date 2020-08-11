@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
 
 
-### Hey, I'm Harsh 👋 💻
+### Bonjour 👋 , I'm Harsh  💻
 
 <!-- 
 **hqrshguptq/hqrshguptq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,7 @@ I'm a software developer who is passionate about making open-source more accessi
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqrshguptq&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [react]: http://reactjs.org
 [styled]: https://styled-components.com
