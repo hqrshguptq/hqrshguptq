@@ -1,7 +1,4 @@
-![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
-
-
-### Bonjour 👋 , I'm Harsh  💻
+### Hola 👋 , I'm Harsh  💻
 
 <!-- 
 **hqrshguptq/hqrshguptq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +13,9 @@ I'm a software developer who is passionate about making open-source more accessi
 - 👯  looking to collaborate to Open Source Organisations.
 - 😄  pronouns: he/him.
 - ⚡   fun fact: I can solve a Rubik's Cube under a minute.
-- 🦕  quote: Cross all the Software-Dev Hurdles like the DINO above and brighten your SCORE :D
+- 🦕  quote: Cross all the Software-Dev Hurdles like the DINO below and brighten your SCORE :D
+
+![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
