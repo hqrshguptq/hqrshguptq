@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 I'm a software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
-- 💜  loving React,Jamstack,GraphQL, C++, Python, HTML/CSS, Swift. 
+- 💜  loving React,Jamstack,GraphQL, C++, Python, HTML/CSS, Swift, PHP. 
 - 🧠  learning iOS App-Dev and Dapp Dev
 - 👯  looking to collaborate to Open Source Organisations.
 - 😄  pronouns: he/him.
