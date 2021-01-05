@@ -28,7 +28,7 @@ I'm a software developer who is passionate about making open-source more accessi
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
 [tailwind]: https://tailwindcss.com
-[website]: https://harshgupta.ga
+[website]: https://hashgupta.ga
 [instagram]: https://instagram.com/hqrshguptq
 [linkedin]: https://linkedin.com/in/hqrshguptq
 [youtube]: https://www.youtube.com/channel/UC1zNFmqEcoGLk4BlqPv3skQ/featured?view_as=subscriber
