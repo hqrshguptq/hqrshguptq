@@ -16,7 +16,7 @@ I'm a software developer who is passionate about making open-source more accessi
 - 🧠  learning iOS App-Dev and Dapp Dev
 - 👯  looking to collaborate to Open Source Organisations.
 - 😄  pronouns: he/him.
-- ⚡   fun fact: I can solve a Rubik's Cube under a minute.
+- ⚡   fun fact: I can solve a Rubik's Cube under a minute xD.
 - 🦕  quote: Cross all the Software-Dev Hurdles like the DINO below and brighten your SCORE :D
 
 ![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
