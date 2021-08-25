@@ -10,14 +10,14 @@
 Here are some ideas to get you started:
 -->
 
-I'm a software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a software researcher who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
 - 💜  loving React,Jamstack,GraphQL, C++, Python, HTML/CSS, Swift, PHP. 
-- 🧠  learning iOS App-Dev and Dapp Dev
+- 🧠  researching majorly in Image Clustering.
 - 👯  looking to collaborate to Open Source Organisations.
 - 😄  pronouns: he/him.
-- ⚡   fun fact: I can solve a Rubik's Cube under a minute xD.
-- 🦕  quote: Cross all the Software-Dev Hurdles like the DINO below and brighten your SCORE :D
+- ⚡   fun fact: I can solve a Rubik's Cube under a minute 0_0
+- 🦕  quote: Cross all those Research Hurdles like the DINO below and brighten your SCORE :D
 
 ![image](https://user-images.githubusercontent.com/54597242/88986793-952e1d00-d2f1-11ea-8003-7b847ddda224.gif)
 
